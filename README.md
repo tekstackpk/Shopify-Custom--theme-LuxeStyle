@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/tekstackpk/Shopify-Custom--theme-LuxeStyle/blob/main/frontend/1%20(1).png" alt="LuxeStyle Theme Preview" width="600"/>
-</p>
+![Analytics Dashboard Banner](frontend/5.png)
 
 # Custom Shopify Theme
 
