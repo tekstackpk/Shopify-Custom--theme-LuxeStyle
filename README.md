@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://example.com/luxestyle-thumbnail.png" alt="LuxeStyle Theme Preview" width="600"/>
+</p>
+
 # Custom Shopify Theme
 
 Welcome to a fully custom Shopify theme designed for modern, elegant, and high-converting e-commerce experiences. This project demonstrates advanced Shopify theme development, tailored for unique branding and seamless shopping.
