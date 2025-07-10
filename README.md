@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://example.com/luxestyle-thumbnail.png" alt="LuxeStyle Theme Preview" width="600"/>
+  <img src="https://user-images.githubusercontent.com/12345678/your-image-name.png" alt="LuxeStyle Theme Preview" width="600"/>
 </p>
 
 # Custom Shopify Theme
